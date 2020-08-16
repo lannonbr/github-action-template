@@ -1,0 +1,9 @@
+name: New Action
+description: Action Description
+inputs:
+  name:
+    description: input your name here
+    required: true
+runs:
+  using: "node12"
+  main: "lib/index.js"
