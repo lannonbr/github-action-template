@@ -9,6 +9,8 @@ yarn
 yarn build # builds the uncompiled JS to the `lib` folder
 ```
 
+Be make sure to commit the `lib` folder as that is the location of the entrypoint for the action.
+
 ## Usage
 
 ```yaml
